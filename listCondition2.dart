@@ -10,4 +10,3 @@ void main(){
  List<String> dataKos = cekKamarNunggak(statusKamar: ['Lunas','Nunggak','Lunas','Nunggak']);
 }
 
-ini harusnya salah
