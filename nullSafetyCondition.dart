@@ -2,7 +2,7 @@ void main(){
 
   int? nilaiMatematika;
 
-  if (skor != null){
+  if (nilaiMatematika != null){
     print('Nilai Matematika: $nilaiMatematika');
   }
 
