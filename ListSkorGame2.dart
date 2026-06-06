@@ -9,4 +9,4 @@ void main(){
   int totalAkhir = updateDanTotalSkor(daftarSkor: skorTim, skorBaru : 250);
   print(totalAkhir);
 }
-cukup berbelit, aku cukup lama memikirkan kode ini. coba teliti
+
