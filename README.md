@@ -43,3 +43,6 @@ Understanding data security and handling null values in modern Dart.
 
 ### 7. Comprehensive Case Studies (Final Projects)
 * `finalExercise.dart` & `finalExercisePart2.dart` - Comprehensive exercises combining multiple concepts above (such as game pricing features and shopping cart functionality).
+
+## The next phase of this exercise is DartOOP-exercise. But I will consider to add more file exercise non-OOP
+* Coming Soon!!
